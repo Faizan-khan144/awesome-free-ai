@@ -83,6 +83,7 @@ Most "AI tool" lists are bloated with paid products and dead links. This one foc
 - **[lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus)** `⭐ 54k` — Simplified, prompt-focused interface for offline image generation.
 - **[huggingface/diffusers](https://github.com/huggingface/diffusers)** `⭐ 35k` — State-of-the-art diffusion models for image, video and audio in PyTorch.
 - **[invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI)** `⭐ 29k` — Creative engine and pro-grade WebUI for Stable Diffusion models.
+- **[FreeImageAI](https://freeimageai.org)** — Free AI image generator, no signup required, no watermark.
 
 ## Audio and Speech
 
