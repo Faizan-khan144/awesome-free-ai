@@ -96,7 +96,8 @@ Most "AI tool" lists are bloated with paid products and dead links. This one foc
 ## Video
 
 - **[hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)** `⭐ 97k` — Real-time face swap and one-click video deepfake from a single image.
-
+- **[FreeAIVideo](https://freeaivideo.org)** — Free AI video generator, text/image-to-video, no signup required, no watermark.
+- 
 ## RAG and Vector Databases
 
 - **[milvus-io/milvus](https://github.com/milvus-io/milvus)** `⭐ 46k` — Cloud-native vector database for scalable ANN search.
