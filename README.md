@@ -65,6 +65,7 @@ Most "AI tool" lists are bloated with paid products and dead links. This one foc
 - **[FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT)** `⭐ 71k` — Multi-agent framework that assigns agents roles to build software.
 - **[crewAIInc/crewAI](https://github.com/crewAIInc/crewAI)** `⭐ 60k` — Framework for orchestrating role-playing, collaborative AI agents.
 - **[FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)** `⭐ 56k` — Drag-and-drop UI to build AI agents and LLM flows.
+- **[vostride/agent-qa](https://github.com/vostride/agent-qa)** `⭐ 914` — Free web and mobile QA CLI with memidex memory and evidence-gated self-improvement (FSL-1.1-ALv2; model costs may apply; [website](https://vostride.com)).
 
 ## Frameworks and SDKs
 
